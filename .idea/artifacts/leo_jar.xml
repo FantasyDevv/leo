@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="leo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/leo_jar</output-path>
+    <root id="archive" name="leo.jar">
+      <element id="module-output" name="leo" />
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/main/java/META-INF" />
+      </element>
+    </root>
+  </artifact>
+</component>
